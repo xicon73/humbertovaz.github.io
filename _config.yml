@@ -14,11 +14,12 @@ about-author: Olá dou-me pelo nome Humberto no Inverno e Zé Roberto no Verão,
 # Contact links
 email: aqueleblogmuitoafrente@gmail.com # Add your Email address
 phone: # Add your Phone number
-website: # Add your website, do not add http://
+# Why would you have it on your website?
+#website: # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
 github: humbertovaz # Add your Github handle
 twitter: '@humbertojvaz' # Add your Twitter handle
-facebook: # Add your Facebook handle
+facebook: humbertojvaz # Add your Facebook handle
 instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
